@@ -3,8 +3,8 @@
 ## hybrid app 
 
 ### vue stack
-* vue+apicloud: 
-* vue+html5plus:
+* vue+apicloud: [vue+apicloud](https://github.com/app-case-community/vue-apicloud)
+* vue+html5plus: [vue+html5plus](https://github.com/app-case-community/vue-h5plus)
 ### react stack
 
 ## mini app
