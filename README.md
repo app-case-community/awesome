@@ -12,10 +12,13 @@
 ### vue stack
 ### react stack
 
+## web app
+
+### vue stack
+### react stack
+
 ## native app
 
 ### android
 ### ios
 ### flutter
-
-### web app
